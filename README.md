@@ -17,3 +17,5 @@ Implementation of Simple Network Management Protocol (SNMP) in Java for GetReque
   * SNMP version
   * SNMP community string
   * Object Identifier (OID)
+
+__NOTE :__ For more info about this project, click [this](https://github.com/Saurabh702/SNMP-Manager/blob/master/Report.pdf)
