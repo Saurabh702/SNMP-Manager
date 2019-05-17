@@ -16,6 +16,8 @@ Implementation of Simple Network Management Protocol (SNMP) in Java for GetReque
   * Destination Address or HostName (SNMP-Agent)
   * SNMP version
   * SNMP community string
-  * Object Identifier (OID)
+  * Object Identifier (OID) 
+  
+  [If SNMP-Agent is on a Linux platform, one can obtain the list of OIDs using snmpwalk command] 
 
 __NOTE :__ For more info about this project, click [this](https://github.com/Saurabh702/SNMP-Manager/blob/master/Report.pdf)
